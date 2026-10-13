@@ -1,0 +1,6 @@
+{
+  "name": "Loja das Bicicletas - Rolândia PR",
+  "description": "Landing page moderna e responsiva da Loja das Bicicletas em Rolândia - PR. Venda de bicicletas infantis, urbanas e mountain bike, oficina mecânica especializada, peças e ofertas do mês com contato direto via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
